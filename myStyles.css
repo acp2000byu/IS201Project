@@ -1,0 +1,23 @@
+ul{
+    font-size: 23px;
+}
+
+#resumeLink{
+    font-size: x-large;
+}
+
+.post-title{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.subInfo{
+    font-size: 20px;
+}
+
+.linktoResume{
+    font-style: italic;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 27px;
+}
